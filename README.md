@@ -1,6 +1,6 @@
 # SQL Crash Course package
 
-Run an SQL query for the "SQL Crash Course" using sqlcc.
+Run an SQL query for the "SQL Crash Course" using sql.
 
 ## Install
 
@@ -13,7 +13,7 @@ pip install git+https://github.com/sravanml/sql.git
 Then you can run a SQL query like:
 
 ```Python
-from sqlcc import run, check
+from sql import run, check
 
 ### Question: q1_1_1
 query = "SELECT * FROM listings"
