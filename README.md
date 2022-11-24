@@ -7,7 +7,7 @@ Run an SQL query for the "SQL Crash Course" using sqlcc.
 You can install the package by running:
 
 ```
-pip install git+https://github.com/sb2nov/sql-cc.git
+pip install git+https://github.com/sravanml/sql.git
 ```
 
 Then you can run a SQL query like:
